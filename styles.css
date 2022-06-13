@@ -1,11 +1,17 @@
+
+
 .title{
     font-weight: bold;
     font-family: sans-serif;
     font-size: 44px;
+    
 }
 
 .recipe-title{
     font-size: 20px;
+    color: red;
+    background-color: yellow;
+    margin: 5px;
 }
 
 .mid-title{
